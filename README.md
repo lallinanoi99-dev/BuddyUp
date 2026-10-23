@@ -2,7 +2,7 @@
 
 Post a "looking for buddies" card — hackathon teammates, a study group, a gym partner — set the number of spots, and let people join until it's full. Every post and every join is recorded on **BOT Chain**, with **Pip**, our little buddy, cheering you on.
 
-- **Live site:** _add the GitHub Pages / custom-domain URL here_
+- **Live site:** https://buddyup.my.id
 - **Mainnet contract:** `0xCc95bFC98aA3cC93D9c522Db98b686D950d50694` · https://scan.botchain.ai/address/0xCc95bFC98aA3cC93D9c522Db98b686D950d50694
 - **Chain:** BOT Chain mainnet, chain ID `677`, RPC `https://rpc.botchain.ai` (testnet: chain ID `968`, RPC `https://rpc.bohr.life`, scan.bohr.life)
 
